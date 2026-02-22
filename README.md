@@ -1,4 +1,4 @@
-Seminar material
+Seminar material for https://alphafoldserver.com/
 
 ## • PPI prediction/peptide competition:
 
